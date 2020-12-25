@@ -1,17 +1,17 @@
 INSERT INTO heroes (name, description, race, class_role)
 VALUES ('Black Widow', 'Chosen as a candidate to become the new Black Widow', 'monster', 'healer');
 INSERT INTO heroes (name, description, race, class_role)
-VALUES ('Red Guardian', 'description', 'human', 'tank');
+VALUES ('Red Guardian', 'description', 'human', 'tankman');
 INSERT INTO heroes (name, description, race, class_role)
 VALUES ('Taskmaster', 'description', 'monster', 'dps');
 INSERT INTO heroes (name, description, race, class_role)
 VALUES ('Shang-Chi', 'description', 'human', 'dps');
 INSERT INTO heroes (name, description, race, class_role)
-VALUES ('MS. MARVEL', 'description', 'human', 'tank');
+VALUES ('MS. MARVEL', 'description', 'human', 'tankman');
 INSERT INTO heroes (name, description, race, class_role)
 VALUES ('Spider-man', 'description', 'human', 'healer');
 INSERT INTO heroes (name, description, race, class_role)
-VALUES ('Wand Maximoff', 'description', 'human', 'tank');
+VALUES ('Wand Maximoff', 'description', 'human', 'tankman');
 INSERT INTO heroes (name, description, race, class_role)
 VALUES ('Vision', 'description', 'monster', 'dps');
 INSERT INTO heroes (name, description, race, class_role)
