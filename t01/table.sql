@@ -3,5 +3,5 @@ CREATE TABLE IF NOT EXISTS heroes (
     name VARCHAR(30) NOT NULL UNIQUE,
     description TEXT NOT NULL,
     race VARCHAR(30) NOT NULL DEFAULT 'human',
-    class_role ENUM('tank', 'healer', 'dps') NOT NULL
+    class_role ENUM('tankman', 'healer', 'dps') NOT NULL
 );
